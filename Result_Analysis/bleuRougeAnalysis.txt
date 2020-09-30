@@ -1,0 +1,657 @@
+Average Bleu Score : 
+
+0.271204
+
+Average Rouge Score : 
+ROUGE-1 ----  f1-score : 0.2709  recall : 0.2761  precision : 0.2732
+ROUGE-2 ----  f1-score : 0.0677  recall : 0.0683  precision : 0.0694
+ROUGE-L ----  f1-score : 0.2693  recall : 0.2744  precision : 0.2717
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Rouge Score for Line 1
+ROUGE-1 ----  f1-score : 0.8571  recall : 1.0000  precision : 0.7500
+ROUGE-2 ----  f1-score : 0.8000  recall : 1.0000  precision : 0.6667
+ROUGE-L ----  f1-score : 0.8571  recall : 1.0000  precision : 0.7500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 2
+ROUGE-1 ----  f1-score : 0.7273  recall : 0.8000  precision : 0.6667
+ROUGE-2 ----  f1-score : 0.6667  recall : 0.7500  precision : 0.6000
+ROUGE-L ----  f1-score : 0.7273  recall : 0.8000  precision : 0.6667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 3
+ROUGE-1 ----  f1-score : 0.6667  recall : 0.6667  precision : 0.6667
+ROUGE-2 ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+ROUGE-L ----  f1-score : 0.6667  recall : 0.6667  precision : 0.6667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 4
+ROUGE-1 ----  f1-score : 0.7273  recall : 0.6667  precision : 0.8000
+ROUGE-2 ----  f1-score : 0.4444  recall : 0.4000  precision : 0.5000
+ROUGE-L ----  f1-score : 0.7273  recall : 0.6667  precision : 0.8000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 5
+ROUGE-1 ----  f1-score : 0.6000  recall : 0.6000  precision : 0.6000
+ROUGE-2 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-L ----  f1-score : 0.6000  recall : 0.6000  precision : 0.6000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 6
+ROUGE-1 ----  f1-score : 0.6000  recall : 0.6000  precision : 0.6000
+ROUGE-2 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-L ----  f1-score : 0.6000  recall : 0.6000  precision : 0.6000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 7
+ROUGE-1 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-L ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 8
+ROUGE-1 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-L ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 9
+ROUGE-1 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 10
+ROUGE-1 ----  f1-score : 0.5455  recall : 0.5000  precision : 0.6000
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-L ----  f1-score : 0.5455  recall : 0.5000  precision : 0.6000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 11
+ROUGE-1 ----  f1-score : 0.5455  recall : 0.5000  precision : 0.6000
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-L ----  f1-score : 0.5455  recall : 0.5000  precision : 0.6000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 12
+ROUGE-1 ----  f1-score : 0.4615  recall : 0.5000  precision : 0.4286
+ROUGE-2 ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+ROUGE-L ----  f1-score : 0.4615  recall : 0.5000  precision : 0.4286
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 13
+ROUGE-1 ----  f1-score : 0.3077  recall : 0.3333  precision : 0.2857
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3077  recall : 0.3333  precision : 0.2857
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 14
+ROUGE-1 ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 15
+ROUGE-1 ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 16
+ROUGE-1 ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 17
+ROUGE-1 ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.2500  recall : 0.2500  precision : 0.2500
+ROUGE-L ----  f1-score : 0.4000  recall : 0.4000  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 18
+ROUGE-1 ----  f1-score : 0.4444  recall : 0.4000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.2857  recall : 0.2500  precision : 0.3333
+ROUGE-L ----  f1-score : 0.4444  recall : 0.4000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 19
+ROUGE-1 ----  f1-score : 0.4444  recall : 0.4000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.2857  recall : 0.2500  precision : 0.3333
+ROUGE-L ----  f1-score : 0.4444  recall : 0.4000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 20
+ROUGE-1 ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.5000  recall : 0.5000  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 21
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 22
+ROUGE-1 ----  f1-score : 0.3750  recall : 0.3750  precision : 0.3750
+ROUGE-2 ----  f1-score : 0.1429  recall : 0.1429  precision : 0.1429
+ROUGE-L ----  f1-score : 0.3750  recall : 0.3750  precision : 0.3750
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 23
+ROUGE-1 ----  f1-score : 0.4000  recall : 0.5000  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.4000  recall : 0.5000  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 24
+ROUGE-1 ----  f1-score : 0.3333  recall : 0.3333  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3333  recall : 0.3333  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 25
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 26
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 27
+ROUGE-1 ----  f1-score : 0.3333  recall : 0.3333  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-L ----  f1-score : 0.3333  recall : 0.3333  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 28
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.4000  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 29
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 30
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-L ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 31
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 32
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-L ----  f1-score : 0.3636  recall : 0.3333  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 33
+ROUGE-1 ----  f1-score : 0.3077  recall : 0.3333  precision : 0.2857
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3077  recall : 0.3333  precision : 0.2857
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 34
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.5000  precision : 0.2857
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.5000  precision : 0.2857
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 35
+ROUGE-1 ----  f1-score : 0.1538  recall : 0.1667  precision : 0.1429
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1538  recall : 0.1667  precision : 0.1429
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 36
+ROUGE-1 ----  f1-score : 0.3077  recall : 0.3333  precision : 0.2857
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1538  recall : 0.1667  precision : 0.1429
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 37
+ROUGE-1 ----  f1-score : 0.3333  recall : 0.2857  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3333  recall : 0.2857  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 38
+ROUGE-1 ----  f1-score : 0.2857  recall : 0.3333  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2857  recall : 0.3333  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 39
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 40
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 41
+ROUGE-1 ----  f1-score : 0.2857  recall : 0.3333  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2857  recall : 0.3333  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 42
+ROUGE-1 ----  f1-score : 0.3333  recall : 0.5000  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3333  recall : 0.5000  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 43
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 44
+ROUGE-1 ----  f1-score : 0.2857  recall : 0.2500  precision : 0.3333
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2857  recall : 0.2500  precision : 0.3333
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 45
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.2857  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.3636  recall : 0.2857  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 46
+ROUGE-1 ----  f1-score : 0.3636  recall : 0.2857  precision : 0.5000
+ROUGE-2 ----  f1-score : 0.2222  recall : 0.1667  precision : 0.3333
+ROUGE-L ----  f1-score : 0.3636  recall : 0.2857  precision : 0.5000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 47
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 48
+ROUGE-1 ----  f1-score : 0.3333  recall : 0.2857  precision : 0.4000
+ROUGE-2 ----  f1-score : 0.2000  recall : 0.1667  precision : 0.2500
+ROUGE-L ----  f1-score : 0.3333  recall : 0.2857  precision : 0.4000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 49
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 50
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 51
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 52
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 53
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 54
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 55
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 56
+ROUGE-1 ----  f1-score : 0.2500  recall : 0.3333  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2500  recall : 0.3333  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 57
+ROUGE-1 ----  f1-score : 0.2500  recall : 0.3333  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2500  recall : 0.3333  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 58
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 59
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 60
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 61
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 62
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 63
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2500  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 64
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 65
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 66
+ROUGE-1 ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2222  recall : 0.2000  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 67
+ROUGE-1 ----  f1-score : 0.2500  recall : 0.2500  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2500  recall : 0.2500  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 68
+ROUGE-1 ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 69
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 70
+ROUGE-1 ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 71
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2500  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2500  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 72
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 73
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 74
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2500  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2500  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 75
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 76
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 77
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 78
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 79
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.2000  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 80
+ROUGE-1 ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 81
+ROUGE-1 ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 82
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 83
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 84
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 85
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 86
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 87
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 88
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.2000  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 89
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 90
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 91
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 92
+ROUGE-1 ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1818  recall : 0.1667  precision : 0.2000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 93
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.1667  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.1667  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 94
+ROUGE-1 ----  f1-score : 0.2000  recall : 0.1667  precision : 0.2500
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.2000  recall : 0.1667  precision : 0.2500
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 95
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 96
+ROUGE-1 ----  f1-score : 0.1538  recall : 0.1667  precision : 0.1429
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1538  recall : 0.1667  precision : 0.1429
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 97
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 98
+ROUGE-1 ----  f1-score : 0.1538  recall : 0.1429  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1538  recall : 0.1429  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 99
+ROUGE-1 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+
+------------------------------------------------------------------------------------------------------------------------
+Rouge Score for Line 100
+ROUGE-1 ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+ROUGE-2 ----  f1-score : 0.0000  recall : 0.0000  precision : 0.0000
+ROUGE-L ----  f1-score : 0.1667  recall : 0.1667  precision : 0.1667
+
+------------------------------------------------------------------------------------------------------------------------
+
+[strings]
+# Mode : train, test, interactive
+mode = train
+pretrained_model=/home/avivilla/Desktop/deep/working_dir/seq2seq.ckpt-4900
+# Specify the training, evaluation and testing encode and decode dataset path
+train_enc = dataset/train_enc.txt
+train_dec = dataset/train_dec.txt
+eval_enc = dataset/eval_enc.txt
+eval_dec = dataset/eval_dec.txt
+test_enc = dataset/test_enc.txt
+test_dec = dataset/test_dec.txt
+# folder where checkpoints and vocabulary will be stored
+working_directory = working_dir/
+# path to store predicted output
+output = output/predicted_test_headline.txt
+
+[ints]
+# vocabulary size
+# 40,000 is a reasonable size
+enc_vocab_size = 80000
+dec_vocab_size = 80000
+# number of LSTM layers : 1/2/3
+num_layers = 3
+# typical options : 128, 256, 512, 1024. Usually 1024 can give you the best results but requires long training time.
+hidden_units = 1024
+# dataset size limit; typically none : no limit
+max_train_data_size = 0
+# Control batch size to decide when to update weights
+batch_size = 128
+# steps per checkpoint
+# Note : At a checkpoint, models parameters are saved, model is evaluated
+#			and results are printed
+steps_per_checkpoint = 150
+
+[floats]
+learning_rate = 0.3
+learning_rate_decay_factor = 0.99
+max_gradient_norm = 5.0
+##############################################################################
+# Note : Edit the bucket sizes at line47 of execute.py (_buckets)
+#
+#	Learn more about the configurations from this link
+#		https://www.tensorflow.org/versions/r0.9/tutorials/seq2seq/index.html
+##############################################################################

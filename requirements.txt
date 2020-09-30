@@ -1,0 +1,8 @@
+tensorflow==0.12.1
+numpy
+pandas
+nltk
+requests
+re
+bs4
+datetime
